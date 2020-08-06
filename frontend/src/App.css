@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&family=Russo+One&display=swap');
+
+.heading{
+    margin-top: 200px;
+  
+    font-family: 'Russo One', sans-serif;
+    font-size: xx-large;
+    
+}
+/* 
+.mycard{
+    margin-top: "700px auto"!important ;
+   }  */
+.auth-card{
+    padding: 20px;
+    text-align: center;
+    max-width: 400px;
+    margin: 30px auto;
+  }
+
+ .brand{
+   font-size: 18px;
+   font-family: 'Russo One', sans-serif;
+   margin-right: 20px;
+ }
+ .add-form{
+   width: 60%;
+   margin: 20px auto;
+ }
+
+ .home-style{
+   margin: 120px auto;
+ }
