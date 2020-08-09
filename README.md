@@ -1,8 +1,6 @@
 # mern 
 
-#### will allow users to 
-#### Register,
-#### Login.
+#### will allow users to Register,Login.
 #### Access protected pages only accessible to logged in users,
 #### stay logged in when they close the app or refresh the page,
 #### Logout
